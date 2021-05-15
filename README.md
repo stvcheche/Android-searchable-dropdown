@@ -21,4 +21,6 @@ aar resource file: https://github.com/stvcheche/Android-searchable-dropdown/tree
 <br/><br/>
 
 <h3>Usage</h3>
+This is the demo app main file having the module usage code
+<br/>
 https://github.com/stvcheche/Android-searchable-dropdown/blob/main/Searchbar/app/src/main/java/com/avintangu/searchbar/MainActivity.java
