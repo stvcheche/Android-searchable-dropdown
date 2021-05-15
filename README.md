@@ -1,5 +1,5 @@
 # Android-searchable-dropdown
-This module is build in JAVA and XML, it enables users to search a drop-down list. The demo has the function attachet to a textview click listener, the source can be modified to attach the module to any UI module.
+This module is build in JAVA and XML, it enables users to search a drop-down list. The demo has the function attached to a textview click listener, the source can be modified to attach the module to any UI module.
 
 <h3>Demo app</h3>
 The demo app loads 195 text entries in the background with a foreground progress indicator
