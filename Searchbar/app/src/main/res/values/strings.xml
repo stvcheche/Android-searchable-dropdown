@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Searchbar</string>
+    <string name="country" translatable="false">Select country</string>
+</resources>
