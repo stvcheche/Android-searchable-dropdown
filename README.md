@@ -11,6 +11,7 @@ Apk file: https://github.com/stvcheche/Android-searchable-dropdown/tree/main/Sea
 ![Scalculator image](https://github.com/stvcheche/Android-searchable-dropdown/blob/main/search.png) 
 ![Scalculator image](https://github.com/stvcheche/Android-searchable-dropdown/blob/main/searcha.png) 
 ![Scalculator image](https://github.com/stvcheche/Android-searchable-dropdown/blob/main/searchb.png) 
+<br/><br/>
 
 <h3>Module resources</h3>
 Root directory: https://github.com/stvcheche/Android-searchable-dropdown/tree/main/Searchbar/searchinput
