@@ -14,4 +14,6 @@ Apk file: https://github.com/stvcheche/Android-searchable-dropdown/tree/main/Sea
 
 <h3>Module resources</h3>
 Root directory: https://github.com/stvcheche/Android-searchable-dropdown/tree/main/Searchbar/searchinput
+<br/>
+
 aar resource file: https://github.com/stvcheche/Android-searchable-dropdown/tree/main/Searchbar/searchinput/build/outputs/aar
