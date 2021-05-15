@@ -18,3 +18,7 @@ Root directory: https://github.com/stvcheche/Android-searchable-dropdown/tree/ma
 <br/>
 
 aar resource file: https://github.com/stvcheche/Android-searchable-dropdown/tree/main/Searchbar/searchinput/build/outputs/aar
+<br/><br/>
+
+<h3>Usage</h3>
+https://github.com/stvcheche/Android-searchable-dropdown/blob/main/Searchbar/app/src/main/java/com/avintangu/searchbar/MainActivity.java
